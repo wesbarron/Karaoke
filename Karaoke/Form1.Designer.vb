@@ -72,6 +72,7 @@ Partial Class frmKaraoke
         Me.txtBoxQnty.Name = "txtBoxQnty"
         Me.txtBoxQnty.Size = New System.Drawing.Size(58, 35)
         Me.txtBoxQnty.TabIndex = 3
+        Me.txtBoxQnty.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'btnTotal
         '
